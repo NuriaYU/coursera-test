@@ -12,9 +12,10 @@
 
 .box{
         margin: 10px;
+        height: 150px;
         border: 1px solid black;
         background-color: gray;
-        overflow: auto;
+        overflow: hidden;
 }
 
 
